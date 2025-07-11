@@ -4,7 +4,7 @@ A production-grade distributed file storage system built with C++ and Python, de
 
 ## Overview
 
-DistributedFS demonstrates advanced software engineering practices through a multi-threaded, distributed storage engine with REST API management interface. Built to showcase skills directly relevant to NetApp's ONTAP software development.
+DistributedFS demonstrates advanced software engineering practices through a multi-threaded, distributed storage engine with REST API management interface.
 
 ## Key Features
 
