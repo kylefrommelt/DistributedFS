@@ -119,7 +119,3 @@ This project follows enterprise development practices:
 - Continuous integration ready
 - Memory leak detection and performance profiling
 - Documentation-driven development
-
-## Contact
-
-Built by [Your Name] - Demonstrating production-grade software engineering skills for NetApp Software Engineer position. 
